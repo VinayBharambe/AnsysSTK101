@@ -1,0 +1,17 @@
+                                                                             2 Apr 2025 04:25:22
+Place-PUB-Sensor-Servo-Radar-Radar-To-Aircraft-MissionAcft:  Access Summary Report
+
+
+Radar-To-MissionAcft
+--------------------
+                  Access       Start Time (UTCG)           Stop Time (UTCG)       Duration (sec)
+                  ------    -----------------------    -----------------------    --------------
+                       1    1 May 2024 02:19:53.158    1 May 2024 02:42:43.032          1369.874
+                       2    1 May 2024 02:45:11.193    1 May 2024 03:09:46.064          1474.870
+
+Statistics
+----------
+Min Duration           1    1 May 2024 02:19:53.158    1 May 2024 02:42:43.032          1369.874
+Max Duration           2    1 May 2024 02:45:11.193    1 May 2024 03:09:46.064          1474.870
+Mean Duration                                                                           1422.372
+Total Duration                                                                          2844.744
